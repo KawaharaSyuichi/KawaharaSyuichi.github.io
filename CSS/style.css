@@ -3,7 +3,7 @@
 body{
 	font-family: Arial, sans-serif;
 	-webkit-font-smoothing: antialiased;
-	background:#E46E6E;
+	background:#FFFFFF;
 }
 
 a {
@@ -13,7 +13,7 @@ a {
 
 h1{
 	padding:45px 0;
-	color:rgb(181, 247, 128);
+	color:rgb(255, 215, 0);
 	font-size:5em;
 	font-weight:bold;
 	text-align:center;
