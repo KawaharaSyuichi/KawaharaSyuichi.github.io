@@ -46,9 +46,9 @@ function main() {
         }
     }
 
-    const meshTemp = new THREE.Mesh(new THREE.SphereGeometry(4, 10, 10));
-    meshTemp.position.set(0, 0, 0);
-    geometry.mergeMesh(meshTemp);
+    //const meshTemp = new THREE.Mesh(new THREE.SphereGeometry(4, 10, 10));
+    //meshTemp.position.set(0, 0, 0);
+    //geometry.mergeMesh(meshTemp);
 
 
     // マテリアルを作成
